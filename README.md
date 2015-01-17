@@ -22,7 +22,7 @@ elif echo "$URL" | grep -q mywebsite.com
 then
   open_url "Google Chrome"
 else
-  open_url "Google Chrome"
+  open_url "Safari"
 fi
 ```
 
