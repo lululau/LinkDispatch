@@ -404,6 +404,7 @@
 				22E687B21A6A16F70070F23D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22E687B31A6A16F70070F23D /* Build configuration list for PBXNativeTarget "LinkDispatchTests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +413,7 @@
 				22E687B51A6A16F70070F23D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
